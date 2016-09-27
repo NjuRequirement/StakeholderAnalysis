@@ -1,3 +1,4 @@
 "# GoalModel" 
 "# BusinessProcess" 
 "# BusinessProcess" 
+"# StakeholderAnalysis" 
